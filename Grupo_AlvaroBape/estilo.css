@@ -43,6 +43,22 @@ nav#menu {
       
   }
 
+  .Caja{ 
+    color: black;
+      font-family: Open Sans;
+      border-style: solid;
+      border-color: gray;
+      position: relative;
+      left: 700px;
+      bottom: 150px;
+      padding: 10px;
   
+  }
+
+  .Caja p{ 
+    border-style: solid;
+    border-color: gray;
+    padding: 10px;
+  }
 
   
